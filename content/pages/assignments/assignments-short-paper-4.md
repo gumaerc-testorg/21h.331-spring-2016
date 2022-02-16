@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 003af624-a338-5994-85f7-a038c8194f88
 title: Assignments - Short Paper 4
 uid: 6c4169e0-f917-4675-d82a-b3a2756d633a
