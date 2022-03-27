@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Assignments - Short Paper 2
 parent_type: CourseSection
+parent_uid: 06be34ba-2555-3987-c8b9-a2b6f0255644
 resourcetype: Image
 title: 21h-331-image.jpg
 uid: b9b313c2-ab5b-707a-a07d-45715af8d701

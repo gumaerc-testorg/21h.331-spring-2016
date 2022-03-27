@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Assignments - Short Paper 1
 parent_type: CourseSection
+parent_uid: 20ec2382-74f8-748d-a9be-e2089806f486
 resourcetype: Image
 title: Short-paper-option-1.jpg
 uid: 0d7cca8d-3110-0640-7890-9ebbf473ad92

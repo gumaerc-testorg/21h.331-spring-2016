@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 5c605736-dcbf-95a3-d1eb-b329fd7f61f1
 resourcetype: Document
 title: '21H.331S16 Fall of the Roman Republic Lecture Slides: Feeding the City'
 uid: 5a825cbb-5709-b21c-a50a-5a075ac5fe4b

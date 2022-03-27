@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 5c605736-dcbf-95a3-d1eb-b329fd7f61f1
 resourcetype: Document
 title: '21H.331S16 Fall of the Roman Republic Lecture Slides: Introduction'
 uid: f7947bed-66aa-3472-1b73-b6fc8f4f2af7

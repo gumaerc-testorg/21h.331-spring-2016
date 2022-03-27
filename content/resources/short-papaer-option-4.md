@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Assignments - Short Paper 4
 parent_type: CourseSection
+parent_uid: 6c4169e0-f917-4675-d82a-b3a2756d633a
 resourcetype: Image
 title: short-papaer-option-4.jpg
 uid: d7981986-7019-98b7-76c8-144f3fe62903
