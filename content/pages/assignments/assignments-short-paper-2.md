@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the guidelines for the Short Paper 2 assignment
+  option.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: Assignments - Short Paper 2
 uid: 06be34ba-2555-3987-c8b9-a2b6f0255644
 ---
 
-![A black and white drawing of a seated man wearing an elaborate tunic, gazing down at a man brought to him with his hands and feet in chains.]({{< resource_file b9b313c2-ab5b-707a-a07d-45715af8d701 >}})
+{{< resource b9b313c2-ab5b-707a-a07d-45715af8d701 >}}
 
 "Jugurtha's Capture."  
 From _La conjuracion de Catilina y la Guerra de Jugurta por Cayo Salustio Crispo_ by Don  

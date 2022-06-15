@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the guidelines for the Short Paper 3 assignment
+  option.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,7 +15,7 @@ uid: 4b4cebe3-7ee5-b2e9-4b48-36ca210bc6f3
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![A slightly-damaged bust of a strong-featured gentleman with a receding hairline.]({{< resource_file 07f71fb1-01ee-5b86-d23e-5992984fb147 >}})
+{{< resource 07f71fb1-01ee-5b86-d23e-5992984fb147 >}}
 
 Marius
 
@@ -22,7 +24,7 @@ Marius
 
 {{< tdclose >}}
 {{< tdopen >}}
-![A slightly-damaged bust of a strong-featured gentleman with thick hair.]({{< resource_file bce0a17b-8c36-0bb2-3f19-e40ab4ddb6bf >}})
+{{< resource bce0a17b-8c36-0bb2-3f19-e40ab4ddb6bf >}}
 
 Sulla
 
