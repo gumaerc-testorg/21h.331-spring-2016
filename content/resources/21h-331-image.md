@@ -12,6 +12,7 @@ image_metadata:
   image-alt: A black and white drawing of a seated man wearing an elaborate tunic,
     gazing down at a man brought to him with his hands and feet in chains.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignments - Short Paper 2
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: 21h-331-image.jpg
 uid: b9b313c2-ab5b-707a-a07d-45715af8d701
 ---
 "Jugurtha's Capture." From La conjuracion de Catilina y la Guerra de Jugurta por Cayo Salustio Crispo by Don Gabriel de Borbón, 1772. This image is in the public domain. Source: Wikimedia Commons.
-

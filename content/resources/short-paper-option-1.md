@@ -10,6 +10,7 @@ image_metadata:
   image-alt: A painting shows a seated woman, wearing a red flowing garment, looking
     toward three friendly-faced children.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignments - Short Paper 1
 parent_type: CourseSection

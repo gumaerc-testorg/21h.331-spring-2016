@@ -6,6 +6,7 @@ file: /courses/21h-331-julius-caesar-and-the-fall-of-the-roman-republic-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21H.331S16 Fall of the Roman Republic Lecture Slides: Augustan Principat
 uid: fa3de8a3-fceb-5ac7-b9e9-ce28531d151c
 ---
 This resource contains information regarding the emergence of the augustan principate.
-

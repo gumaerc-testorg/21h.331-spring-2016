@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Source: Wikimedia Commons.'
   image-alt: A slightly-damaged bust of a strong-featured gentleman with thick hair.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignments - Short Paper 3
 parent_type: CourseSection

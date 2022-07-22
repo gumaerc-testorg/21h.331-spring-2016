@@ -10,6 +10,7 @@ image_metadata:
   image-alt: A painting shows a gallery of toga-wearing men watching the speech of
     one standing before them.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignments - Short Paper 4
 parent_type: CourseSection

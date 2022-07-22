@@ -6,6 +6,7 @@ file: /courses/21h-331-julius-caesar-and-the-fall-of-the-roman-republic-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21H.331S16 Fall of the Roman Republic Lecture Slides: Introduction'
 uid: f7947bed-66aa-3472-1b73-b6fc8f4f2af7
 ---
 This resource contains information regarding introduction of the Roman Republic.
-
