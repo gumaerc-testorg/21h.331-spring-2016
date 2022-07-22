@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section contains the guidelines for the Short Paper 1 assignment
+  option.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 003af624-a338-5994-85f7-a038c8194f88
 title: Assignments - Short Paper 1
 uid: 20ec2382-74f8-748d-a9be-e2089806f486
 ---
 
-![A painting shows a seated woman, wearing a red flowing garment, looking toward three friendly-faced children.]({{< resource_file 0d7cca8d-3110-0640-7890-9ebbf473ad92 >}})
+{{< resource 0d7cca8d-3110-0640-7890-9ebbf473ad92 >}}
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Angelica Kauffman, _Cornelia, Mother of the Gracchi_ (1785).  

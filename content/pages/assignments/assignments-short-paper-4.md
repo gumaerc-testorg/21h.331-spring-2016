@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section contains the guidelines for the Short Paper 4 assignment
+  option.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 003af624-a338-5994-85f7-a038c8194f88
 title: Assignments - Short Paper 4
 uid: 6c4169e0-f917-4675-d82a-b3a2756d633a
 ---
 
-![A painting shows a gallery of toga-wearing men watching the speech of one standing before them.]({{< resource_file d7981986-7019-98b7-76c8-144f3fe62903 >}})
+{{< resource d7981986-7019-98b7-76c8-144f3fe62903 >}}
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Cesare Maccari, _Cicero Denounces Catiline_ (1888) Palazzo Madama, Rome.  

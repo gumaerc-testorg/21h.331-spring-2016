@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains the guidelines for the topic proposal.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 003af624-a338-5994-85f7-a038c8194f88
 title: Assignments - Topic Proposal and Outline
 uid: 76bd6591-210a-6aad-845c-8b5237c64598
