@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding introduction of the Roman
   Republic.
 file: /courses/21h-331-julius-caesar-and-the-fall-of-the-roman-republic-spring-2016/f7947bed66aa34721b73b6fc8f4f2af7_MIT21H_331S16_Introduction.pdf
+file_size: 2228212
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
