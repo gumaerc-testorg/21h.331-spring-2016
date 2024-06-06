@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21h-331-julius-caesar-and-the-fall-of-the-roman-republic-spring-2016/07f71fb101ee5b86d23e5992984fb147_Short-paper-3.jpg
+file_size: 37257
 file_type: image/jpeg
 image_metadata:
   caption: 'This image is in the public domain. Source: Wikimedia Commons'

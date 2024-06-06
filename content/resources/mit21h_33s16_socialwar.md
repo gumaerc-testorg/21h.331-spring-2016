@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding the social war and the unification
   of italy.
 file: /courses/21h-331-julius-caesar-and-the-fall-of-the-roman-republic-spring-2016/43dc5a8a0a95d6ddf5cbdeeed965aca6_MIT21H_33S16_SocialWar.pdf
+file_size: 1752033
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
