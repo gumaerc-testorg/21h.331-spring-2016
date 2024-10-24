@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21h-331-julius-caesar-and-the-fall-of-the-roman-republic-spring-2016/0d7cca8d3110064078909ebbf473ad92_Short-paper-option-1.jpg
+file: /ol-ocw-studio-app/courses/21h-331-julius-caesar-and-the-fall-of-the-roman-republic-spring-2016/0d7cca8d3110064078909ebbf473ad92_Short-paper-option-1.jpg
 file_size: 44807
 file_type: image/jpeg
 image_metadata:
