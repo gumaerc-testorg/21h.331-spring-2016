@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding feeding the city: Rome
   and the Annona.'
-file: /ol-ocw-studio-app/courses/21h-331-julius-caesar-and-the-fall-of-the-roman-republic-spring-2016/5a825cbb5709b21ca50a5a075ac5fe4b_MIT21H_331S16_Feeding.pdf
+file: /courses/21h-331-julius-caesar-and-the-fall-of-the-roman-republic-spring-2016/5a825cbb5709b21ca50a5a075ac5fe4b_MIT21H_331S16_Feeding.pdf
 file_size: 2194316
 file_type: application/pdf
 learning_resource_types:
