@@ -16,7 +16,7 @@ uid: 20ec2382-74f8-748d-a9be-e2089806f486
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Angelica Kauffman, _Cornelia, Mother of the Gracchi_ (1785).  
-(This image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kauffmann_Cornelia_mater_Gracchorum.jpg).)
+(This image is in the public domain. Source: {{% resource_link "5aaa6615-0706-4169-b5a8-c4f0a7739035" "Wikimedia Commons" %}}.)
 
 Plutarch's Lives of the Gracchi
 -------------------------------

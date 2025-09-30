@@ -16,7 +16,7 @@ uid: 06be34ba-2555-3987-c8b9-a2b6f0255644
 
 "Jugurtha's Capture."  
 From _La conjuracion de Catilina y la Guerra de Jugurta por Cayo Salustio Crispo_ by Don  
-Gabriel de Borbón, 1772. (This image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jugurtha_captured.jpg).)
+Gabriel de Borbón, 1772. (This image is in the public domain. Source: {{% resource_link "3f9a4822-6c08-4ba9-a4f8-ce4d7f807336" "Wikimedia Commons" %}}.)
 
 Short Paper Option 2 should be a response paper on Sallust's _Jugurthine War_. To what should you be responding?
 
