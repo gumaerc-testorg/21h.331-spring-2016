@@ -8,17 +8,17 @@ title: Readings
 uid: 0ae1761c-e4ac-31c1-dfea-f0712ac55cdd
 ---
 
-\[A\] = Appian. [_The Civil Wars_](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/Civil_Wars/1*.html). Translated by Horace White (1912-13).
+\[A\] = Appian. {{% resource_link "f2df5db0-cd9f-4ea5-9253-d1d70e2caffe" "_The Civil Wars_" %}}. Translated by Horace White (1912-13).
 
 \[C\] = Caesar. _The Conquest of Gaul_. Translated by S. A. Handford. Revised with a new introduction by Jane P. Gardner. Penguin Classics, 1983. ISBN: 9780140444339.
 
 \[CA\] = Caesar, Julius. _The Gallic War (Oxford World's Classics)_. Translated by Carolyn Hammond. Oxford University Press, 2008. ISBN: 9780199540266.
 
-\[CI\] = Cicero. _Political Speeches (Oxford World's Classics)_. Translated by D. H. Berry. Oxford University Press, 2009. ISBN: 9780199540136. \[Preview with [Google Books](http://books.google.com/books?id=6gUUDAAAQBAJ&pg=PAfrontcover)\]
+\[CI\] = Cicero. _Political Speeches (Oxford World's Classics)_. Translated by D. H. Berry. Oxford University Press, 2009. ISBN: 9780199540136. \[Preview with {{% resource_link "155b56ed-055f-4534-8df3-408a84015c7b" "Google Books" %}}\]
 
 \[CM\] = Cicero, Marcus Tullius. _Letters of Marcus Tullius Cicero_. Translated by E.S. Shuckburgh. CreateSpace Independent Publishing Platform, 2016. ISBN: 9781534847071.
 
-\[CR\] = Crook, J.A., Andrew Lintott, et al., eds. _The Cambridge Ancient History. Volume IX: The Last Age of the Roman Republic, 146–43 BC_. 2nd edition. Cambridge University Press, 1994. ISBN: 9780521256032. \[Preview with [Google Books](http://books.google.com/books?id=3yUkzNLiY4oC&pg=PAfrontcover)\]
+\[CR\] = Crook, J.A., Andrew Lintott, et al., eds. _The Cambridge Ancient History. Volume IX: The Last Age of the Roman Republic, 146–43 BC_. 2nd edition. Cambridge University Press, 1994. ISBN: 9780521256032. \[Preview with {{% resource_link "4ee59cf1-59f8-4d1d-9bbe-c225458bc032" "Google Books" %}}\]
 
 \[P\] = Plutarch. _Roman Lives (Oxford World's Classics)_. Translated by Robin Waterfield. Oxford University Press, 2009. ISBN: 9780199537389.
 
@@ -26,7 +26,7 @@ uid: 0ae1761c-e4ac-31c1-dfea-f0712ac55cdd
 
 \[R\] = Rosenstein, Nathan, and Robert Morstein-Marx, eds. _A Companion to the Roman Republic_. Wiley-Blackwell, 2006. ISBN: 9781405102179.
 
-\[S\] = Sallust. _Catiline's War, The Jugurthine War, Histories_. Translated by A. J. Woodman. Penguin Classics, 2008. ISBN: 9780140449488. \[Preview with [Google Books](https://books.google.com/books?id=oJDK1flJeNEC&pg=PAfrontcover)\]
+\[S\] = Sallust. _Catiline's War, The Jugurthine War, Histories_. Translated by A. J. Woodman. Penguin Classics, 2008. ISBN: 9780140449488. \[Preview with {{% resource_link "2cc1c301-65b5-484f-a2ca-fe94e4209c31" "Google Books" %}}\]
 
 \[SC\] = Scullard, H.H. _From the Gracchi to Nero: A History of Rome 133 BC to AD 68_. 5th edition. Routledge, 1982. ISBN: 9780415025270.
 
@@ -182,7 +182,7 @@ The Social War and the Unification of Italy
 {{< tdopen >}}
 
 
-\[A\] "[Book I, 1–54](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/Civil_Wars/1*.html)."
+\[A\] "{{% resource_link "f2df5db0-cd9f-4ea5-9253-d1d70e2caffe" "Book I, 1–54" %}}."
 
 \[CR\] Gabba, E. Chapter 4: Rome and Italy: The Social War.
 
@@ -202,11 +202,11 @@ Civil War I: Marius and Sulla
 {{< tdopen >}}
 
 
-\[A\] "[Book I, 55–107](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/Civil_Wars/1*.html)."
+\[A\] "{{% resource_link "f2df5db0-cd9f-4ea5-9253-d1d70e2caffe" "Book I, 55–107" %}}."
 
 \[SC\] Chapter 4: The Rise and Fall of Sulla, pp. 68–84.
 
-Badian, E. "[Waiting for Sulla](https://www.jstor.org/stable/297876)." _Journal of Roman Studies_ 52, Parts 1 and 2 (1962): 47–61.
+Badian, E. "{{% resource_link "e1bb58f8-29d8-412c-99af-c130693b8083" "Waiting for Sulla" %}}." _Journal of Roman Studies_ 52, Parts 1 and 2 (1962): 47–61.
 
 
 {{< tdclose >}}
@@ -226,7 +226,7 @@ The Dictatorship of Sulla
 
 Flower, Harriet I. "Am Alternative to a Crisis: Sulla's New Republic." Section 7 in _Roman Republics_. Princeton University Press, 2011. ISBN: 9780691152585.
 
-Keaveney, Arthur. "Qualis Fuit Sulla?" Chapter 12 in _Sulla: The Last Republican_. 2nd edition. Routledge, 2005. ISBN: 9780415336611. \[Preview with [Google Books](http://books.google.com/books?id=FZhbuCN3jz4C&pg=PA177=onepage)\]
+Keaveney, Arthur. "Qualis Fuit Sulla?" Chapter 12 in _Sulla: The Last Republican_. 2nd edition. Routledge, 2005. ISBN: 9780415336611. \[Preview with {{% resource_link "486ff94a-a4db-4856-a925-30adc17b829d" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -280,7 +280,7 @@ The Three-headed Monster: Pompey, Crassus, and Caesar
 {{< tdopen >}}
 
 
-\[A\] ["Book II, 1–33](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/Civil_Wars/2*.html)."
+\[A\] {{% resource_link "1b7bc6c8-a272-40a4-aca5-0c7b308bf430" "\"Book II, 1–33" %}}."
 
 \[SC\] Chapter 6: Pompey and Caesar.
 
@@ -330,7 +330,7 @@ The Urban Plebs and Publius Clodius
 
 \[CR\] Purcell, Nicholas. Chapter 17: The City of Rome and the _Plebs Urbana_ in the Late Republic.
 
-Lintott, A.W. "[P. Clodius Pulcher – _Felix Catilina_?](http://www.jstor.org/stable/642452?seq=1#page_scan_tab_contents)" _Greece & Rome_ 14, no. 2 (1967): 157–69.
+Lintott, A.W. "{{% resource_link "21398e21-d599-47cb-8294-7ded728c0d02" "P. Clodius Pulcher – _Felix Catilina_?" %}}" _Greece & Rome_ 14, no. 2 (1967): 157–69.
 
 
 {{< tdclose >}}
@@ -358,7 +358,7 @@ Civil War II: Crossing the Rubicon
 {{< tdopen >}}
 
 
-\[A\] "[Book II, 32–37](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Appian/Civil_Wars/2*.html)."
+\[A\] "{{% resource_link "1b7bc6c8-a272-40a4-aca5-0c7b308bf430" "Book II, 32–37" %}}."
 
 \[CA\] Sections 8.49–8.54.
 
@@ -404,7 +404,7 @@ The Roman Revolution
 
 Brunt, P.A. "The Army and the Land in the Roman Revolution." Chapter 5 in _The Fall of the Roman Republic and Related Essays_. Clarendon Press, 1988, pp. 240–75. ISBN: 9780198148494.
 
-———. "[The Roman Mob](http://www.jstor.org/stable/649964)." _Past & Present_ 35 (1966): 3–27.
+———. "{{% resource_link "633e4761-09c0-4163-96ad-f51beeeb6fa2" "The Roman Mob" %}}." _Past & Present_ 35 (1966): 3–27.
 
 
 {{< tdclose >}}
@@ -422,7 +422,7 @@ Opposing Caesar: Cato & Marcellus
 
 \[CI\] "Pro Marcello ('For Marcellus')."
 
-Plutarch. "[The Life of Cato the Younger](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Cato_Minor*.html)." In _The Parallel Lives_.
+Plutarch. "{{% resource_link "1def5a54-1099-47eb-9184-fe3a23f4c8fa" "The Life of Cato the Younger" %}}." In _The Parallel Lives_.
 
 
 {{< tdclose >}}
@@ -456,9 +456,9 @@ The Ides of March
 {{< tdopen >}}
 
 
-Plutarch. "[The Life of Brutus](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Brutus*.html)." In _The Parallel Lives_.
+Plutarch. "{{% resource_link "bfeb5a54-22eb-43aa-a040-06851e9c244e" "The Life of Brutus" %}}." In _The Parallel Lives_.
 
-Woolf, Greg. "Talking Tyrannicide." Chapter 2 in _Et tu, Brute? The Murder of Caesar and Political Assassination_. Profile Books, 2006. ISBN: 9781861977410. \[Preview with [Google Books](http://books.google.com/books?id=gYXEPN7BJnoC&pg=PA52=onepage)\]
+Woolf, Greg. "Talking Tyrannicide." Chapter 2 in _Et tu, Brute? The Murder of Caesar and Political Assassination_. Profile Books, 2006. ISBN: 9781861977410. \[Preview with {{% resource_link "0d0242a2-b2c1-43b8-914d-60190e0d4151" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -504,9 +504,9 @@ The Emergence of the Augustan Principate
 {{< tdopen >}}
 
 
-Eder, Walter. "Augustus and the Power of Tradition." Chapter 1 in _The Cambridge Companion to the Age of Augustus_. Edited by Karl Galinsky. Cambridge University Press, 2005. ISBN: 9780521003933. \[Preview with [Google Books](http://books.google.com/books?id=ftcx-5j7rjwC&pg=PA13=onepage)\]
+Eder, Walter. "Augustus and the Power of Tradition." Chapter 1 in _The Cambridge Companion to the Age of Augustus_. Edited by Karl Galinsky. Cambridge University Press, 2005. ISBN: 9780521003933. \[Preview with {{% resource_link "e5fffd34-c89b-4a48-a7a5-de5f70a2a8b4" "Google Books" %}}\]
 
-Gruen, Erich S. "Augustus and the Making of the Principate." Chapter 2 in _The Cambridge Companion to the Age of Augustus_. Edited by Karl Galinsky. Cambridge University Press, 2005. ISBN: 9780521003933. \[Preview with [Google Books](http://books.google.com/books?id=ftcx-5j7rjwC&pg=PA33=onepage)\]
+Gruen, Erich S. "Augustus and the Making of the Principate." Chapter 2 in _The Cambridge Companion to the Age of Augustus_. Edited by Karl Galinsky. Cambridge University Press, 2005. ISBN: 9780521003933. \[Preview with {{% resource_link "f2f611da-de03-493a-9889-311691bb6f47" "Google Books" %}}\]
 
 
 {{< tdclose >}}
