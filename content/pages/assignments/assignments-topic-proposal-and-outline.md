@@ -41,6 +41,6 @@ Assessment Criteria
 *   Does the proposal reflect a rigorous effort to find relevant scholarly bibliography?
 *   Is the proposal well written and generally polished?
 
-The format for the topic proposal and outline is adapted from the {{% resource_link "4ed95163-476a-4df6-be91-af3f70db2949" "Prospectus Writing Tips" %}} of the Department of History at Brown University.
+The format for the topic proposal and outline is adapted from the [Prospectus Writing Tips](https://www.brown.edu/academics/history/prospectus-writing-tips) of the Department of History at Brown University.
 
 The topic proposal and outline is due during Session 17.
