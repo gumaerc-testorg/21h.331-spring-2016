@@ -19,7 +19,7 @@ uid: 4b4cebe3-7ee5-b2e9-4b48-36ca210bc6f3
 
 Marius
 
-(This image is in the public domain. Source: {{% resource_link "696f476e-faf6-4a15-a171-a174db4755e3" "Wikimedia Commons" %}}.)
+(This image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marius_Glyptothek_Munich_319.jpg).)
 
 
 {{< tdclose >}}
@@ -28,7 +28,7 @@ Marius
 
 Sulla
 
-(This image is in the public domain. Source: {{% resource_link "e5294726-6ba9-4fd5-9313-a979d5bbcc9b" "Wikimedia Commons" %}}.)
+(This image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sulla_Glyptothek_Munich_309.jpg).)
 
 
 {{< tdclose >}}
