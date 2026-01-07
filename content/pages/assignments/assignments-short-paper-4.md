@@ -16,7 +16,7 @@ uid: 6c4169e0-f917-4675-d82a-b3a2756d633a
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Cesare Maccari, _Cicero Denounces Catiline_ (1888) Palazzo Madama, Rome.  
-(This image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Maccari-Cicero.jpg).)
+(This image is in the public domain. Source: {{% resource_link "fe3c650b-ae5a-436f-829c-7b24d17ae859" "Wikimedia Commons" %}}.)
 
 Short Paper 4 should be a response paper on Cicero's _In Catilinam_ ('Against Catiline') _I–II_.
 
